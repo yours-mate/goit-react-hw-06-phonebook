@@ -12,7 +12,7 @@ export function Filter() {
   return (
     <div>
       <label className={css.search__label}>
-        Find contacts by name
+        Find Contacts by name
         <input onChange={handleFilterChange}></input>
       </label>
     </div>
