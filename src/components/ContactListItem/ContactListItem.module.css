@@ -1,0 +1,12 @@
+.contact {
+  margin-bottom: 5px;
+}
+
+.contact__btn {
+  margin-left: 10px;
+}
+
+.contact__btn:hover,
+.contact__btn:focus {
+  background-color: rgb(248, 125, 125);
+}
